@@ -36,6 +36,8 @@ My **first working project** generated entirely from a single prompt.
 
 currently locally deployed but will be deploy in few couple of days 
 
+Repo LINK :https://github.com/ayushsingh2005-coder/flask-attendance-system
+
 ---
 
 ## ✨ Why This Matters
