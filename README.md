@@ -21,17 +21,26 @@ Instead of spending hours planning and debugging, I leverage structured promptin
 - **MERN Stack Development** – scalable web apps with AI features.  
 - **Hackathon Consulting** – fast project ideation & execution with AI support.  
 
----
+--------------------------------------------------------------------------------------------------------------
 
-## 📂 Repository Structure
+## 🚀 First Live Project
 
+### 📝 Flask Attendance Management System  
+My **first working project** generated entirely from a single prompt.  
+- Built with **Flask + HTML (Jinja2) + SQLite**  
+- Prompt-driven design, development, debugging, and database integration  
+- Tackled real issues (Jinja2 conflicts, missing Flask installation, DB setup)  
+- Final working version is live and structured inside this repo  
 
+👉 Check it here:  http://127.0.0.1:5000
+
+currently locally deployed but will be deploy in few couple of days 
 
 ---
 
 ## ✨ Why This Matters
 ⚡ In 2025, prompting is not just about chatting with AI—it’s about **turning ideas into working solutions faster**.  
-This repo is proof that with the right prompts, we can cut down project planning from weeks to hours.  
+This repo is proof that with the right prompts, we can cut down project planning from weeks to hours and build **deployable, real-world systems**.  
 
 ---
 
@@ -41,11 +50,7 @@ If you’re a:
 - Startup needing fast AI workflows 🚀  
 - Developer who wants to save hours with prompt packs ⚡  
 
-👉 Let’s connect!  
-
-**Email:** [Ayushsingh638684@gmail.com]  
-
 ---
 
-🔹 *This repo will be updated regularly with new case studies, prompt packs, and AI workflow experiments.* Stay tuned!
+🔹 *This repo will be updated regularly with new case studies, prompt packs, and AI workflow experiments — starting with my first live project.*  
 
