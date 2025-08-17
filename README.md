@@ -45,6 +45,11 @@ This repo is proof that with the right prompts, we can cut down project planning
 ---
 
 ## 📬 Connect With Me
+
+Email : Ayushsingh638684@gmail.com
+Linkedin : https://www.linkedin.com/in/ayush-singh-2a0158295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 If you’re a:  
 - Student looking for hackathon-ready projects 💡  
 - Startup needing fast AI workflows 🚀  
